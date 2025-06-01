@@ -9,7 +9,7 @@ Made it for my OOP class' final project &
 ~~Totally not a rip-off of [Genryumon Affairs](https://bluearchive.nexon.com/events/2025/03/minigame?code=en)~~.
 
 # How to run?
-Just download the repository and make sure java & maven is installed, then run :p
+Just download the latest release -> unzip -> run the app :3
 
 # Assets used
 **Background Music**:
